@@ -1,0 +1,12 @@
+Changes to be done before running code
+
+letstry_bash.sh 
+
+Change in datbase name and user according password. -p(password immidiate)
+change path in LOAD command i set mine you have to change it
+
+
+magnet.py
+
+same change in databse user password used in line "db= xxxx"
+
